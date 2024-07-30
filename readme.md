@@ -1,4 +1,4 @@
-# ColorChange-JavaScript-project-1 
+# ColorChange-JavaScript-project
 
 
 
